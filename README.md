@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# beta-testing.gitlab.io
+
+
 
 ## Build Setup
 
@@ -19,6 +19,4 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-=======
-# dashboard
->>>>>>> f94b70682a6477c0652374079cd9144a375b6839
+
