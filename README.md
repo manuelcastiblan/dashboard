@@ -1,4 +1,4 @@
-
+## Este proyecto busca entender las emociones de las personas por medio de los movimientos que estas tienen de su telefono movil, para esto se desarrollo una aplicación mediante NuxtJs, y se almacenan los datos en Firebase
 
 
 ## Build Setup
